@@ -1,6 +1,6 @@
 {
   "name": "COVID-19",
-  "version": "0.1.0",
+  "version": "0.9.0",
   "engines": {
     "node": "v10.15.3"
   },
