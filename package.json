@@ -1,9 +1,9 @@
 {
   "name": "COVID-19",
   "version": "0.1.0",
-  "contributors": [
-    ""
-  ],
+  "engines": {
+    "node": "v10.15.3"
+  }
   "license": "BSD-3-Clause",
   "repository": "",
   "scripts": {
