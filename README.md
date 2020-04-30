@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" src="./images/logo.png">
+</p>
+
 # COVID-19
 
 This is a Progressive Web App wich displays coronavirus affected places all over the world.
