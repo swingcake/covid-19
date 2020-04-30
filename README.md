@@ -1,2 +1,3 @@
-# covid-19
-This aims to visualise coronavirus affected areas around the world.
+# COVID-19
+
+This is a Progressive Web App wich displays coronavirus affected places all over the world.
